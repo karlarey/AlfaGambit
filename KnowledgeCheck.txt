@@ -1,0 +1,4 @@
+Bid Data
+ETL tutorial - https://www.tutorialspoint.com/etl_testing/etl_testing_introduction.htm
+Hadoop PDF - https://www.google.com/#q=big+data+tutorial+pdf
+Brief Introduction to R and Python for Data: Analysis and Visualization - http://www.datacommunitydc.org/blog/2013/05/stepping-up-to-big-data-with-r-and-python
